@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://swim.gggpick.com/sitemap.xml
